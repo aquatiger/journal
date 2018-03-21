@@ -2,7 +2,7 @@
 
 This is a journal of my programming journey.
 
-##21Mar18
+## 21Mar18
 
 Up until now I've tried to do exercises to refresh my skills I acquired at a coding bootcamp.
 I finished 6 chapters of my Python book and as timing would have it I received an email from
