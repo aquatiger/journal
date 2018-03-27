@@ -2,9 +2,17 @@
 
 This is a journal of my programming journey.
 
+## 27Mar18
+Worked on and finished Section 4, and did most of Section 5 for LaunchCode, which included a bunch
+of turtle exercises. Great fun!
+
+
+## 26Mar18
+Finished Section 3 for LaunchCode; met with WorkSource for some housing options and DSHS for food
+
 ## 23Mar18
 
-Finished Section 3 for LaunchCode; talked to a few people at WorkSource about time management
+Finished Section 2 for LaunchCode; talked to a few people at WorkSource about time management
 and benefits options.
 
 ## 22Mar18
