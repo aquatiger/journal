@@ -2,6 +2,10 @@
 
 This is a journal of my programming journey.
 
+## 28Mar18
+Worked on and finished Section 5, and did most of Section 6. I'm particularly proud today of the
+way "pi approximation" and "sine wave" and "turtle circle" turned out.
+
 ## 27Mar18
 Worked on and finished Section 4, and did most of Section 5 for LaunchCode, which included a bunch
 of turtle exercises. Great fun!
