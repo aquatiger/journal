@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 30Mar18
+Had a one-way video interview for an internship. Worked on Section 6 for LaunchCode.
+
 ## 29Mar18
 Continued to work on Section 6 for LaunchCode. Looked for housing and some interview issues came up.
 Very busy and the exercises in Section 6 seem oddly difficult.
