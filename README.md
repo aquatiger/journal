@@ -2,6 +2,10 @@
 
 This is a journal of my programming journey.
 
+## 2Apr18
+Continued working on Section 6 for LaunchCode. Went to Strategies for Success workshop.
+A very busy day.
+
 ## 30Mar18
 Had a one-way video interview for an internship. Worked on Section 6 for LaunchCode.
 
