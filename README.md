@@ -2,6 +2,12 @@
 
 This is a journal of my programming journey.
 
+## 4Apr18
+Finished Section 6 for LaunchCode, looking forward to Section 7
+
+## 3Apr18
+Very difficult day. Did workshop.
+
 ## 2Apr18
 Continued working on Section 6 for LaunchCode. Went to Strategies for Success workshop.
 A very busy day.
