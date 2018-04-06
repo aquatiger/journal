@@ -2,6 +2,10 @@
 
 This is a journal of my programming journey.
 
+## 6Apr18
+Finished Section 7. Enjoyed all of them and finished them with minimal errors or problems. A change from
+Section 6. And I did a little extra on some of the exercises as well. A good day of coding.
+
 ## 5Apr18
 Worked on Section 7 and the first 3 exercises. These exercises, as I look ahead, seem exciting and I'm
 looking forward again to finishing these and building my skills. Strategies for Success workshop again.
