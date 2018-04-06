@@ -2,6 +2,10 @@
 
 This is a journal of my programming journey.
 
+## 5Apr18
+Worked on Section 7 and the first 3 exercises. These exercises, as I look ahead, seem exciting and I'm
+looking forward again to finishing these and building my skills. Strategies for Success workshop again.
+
 ## 4Apr18
 Finished Section 6 for LaunchCode, looking forward to Section 7
 
