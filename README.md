@@ -2,6 +2,11 @@
 
 This is a journal of my programming journey.
 
+## 9Apr18
+Had to journal today, and I don't really want to get too personal, but a bad night sleep with Strategies
+for Success workshop and then much to do afterwards, just did not get around to coding today. Such is life
+and not excuses.
+
 ## 6Apr18
 Finished Section 7. Enjoyed all of them and finished them with minimal errors or problems. A change from
 Section 6. And I did a little extra on some of the exercises as well. A good day of coding.
