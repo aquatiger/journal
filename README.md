@@ -2,6 +2,10 @@
 
 This is a journal of my programming journey.
 
+## 10Apr18
+Did a few lessons in Chapter 8 thought I would get further, but I have to go to Strategies for Success
+workshop, then an interview, and then Kids Coding Club where I volunteer to teach children coding.
+
 ## 9Apr18
 Had to journal today, and I don't really want to get too personal, but a bad night sleep with Strategies
 for Success workshop and then much to do afterwards, just did not get around to coding today. Such is life
