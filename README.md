@@ -2,8 +2,11 @@
 
 This is a journal of my programming journey.
 
+## 11Apr18
+Finished lessons of Section 8. Did three of the exercises. Went to Strategies for Success workshop.
+
 ## 10Apr18
-Did a few lessons in Chapter 8 thought I would get further, but I have to go to Strategies for Success
+Did a few lessons in Section 8 thought I would get further, but I have to go to Strategies for Success
 workshop, then an interview, and then Kids Coding Club where I volunteer to teach children coding.
 
 ## 9Apr18
