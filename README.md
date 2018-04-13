@@ -2,6 +2,10 @@
 
 This is a journal of my programming journey.
 
+## 13Apr18
+Called in sick. Not to turn this into a personal journal, but life happens. I've had a lot of good and
+bad stress these past two weeks coupled with being around a sick person, my resistance fell.
+
 ## 12Apr18
 Yet another busy day with coding and Strategies for Success workshop. A little more done on Section 8.
 
