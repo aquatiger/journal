@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 12Apr18
+Yet another busy day with coding and Strategies for Success workshop. A little more done on Section 8.
+
 ## 11Apr18
 Finished lessons of Section 8. Did three of the exercises. Went to Strategies for Success workshop.
 
