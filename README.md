@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 17Apr18
+Finished Section 8 and the lessons of Section 9.
+
 ## 16Apr18
 Not feeling well today although I accomplished a little coding. Maybe tomorrow
 
