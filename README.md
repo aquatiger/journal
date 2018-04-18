@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 18Apr18
+Doctor's appointment today, but I managed to finish most of the exercises in Section 9.
+
 ## 17Apr18
 Finished Section 8 and the lessons of Section 9.
 
