@@ -2,6 +2,10 @@
 
 This is a journal of my programming journey.
 
+## 19Apr18
+Not feeling all that great today, but managed to make what I consider good progress.
+Finished Section 9 and all the lessons of 10 with one or two exercises finished.
+
 ## 18Apr18
 Doctor's appointment today, but I managed to finish most of the exercises in Section 9.
 
