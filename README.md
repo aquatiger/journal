@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 20Apr18
+Accomplished much. Finished exercises in Section 10. Looking forward to the rest.
+
 ## 19Apr18
 Not feeling all that great today, but managed to make what I consider good progress.
 Finished Section 9 and all the lessons of 10 with one or two exercises finished.
