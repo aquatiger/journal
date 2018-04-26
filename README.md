@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 25Apr18
+Sick.
+
 ## 23Apr18
 Accomplished a lot today also. Finished Section 11 and all but 2 exercises.
 Finished lessons of Section 12, but none of the exercises.
