@@ -2,6 +2,13 @@
 
 This is a journal of my programming journey.
 
+## 30Apr18
+Busy tyring to catch up from being sick. Strategies for Success all this week. 
+Continued Kids Coding Club.
+
+## 27Apr18
+Still sick.
+
 ## 25Apr18
 Sick.
 
