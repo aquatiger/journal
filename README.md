@@ -15,7 +15,7 @@ Strategies for Success.
 Continued Strategies for Success and Kids Coding Club.
 
 ## 30Apr18
-Busy tyring to catch up from being sick. Strategies for Success all this week. 
+Busy trying to catch up from being sick. Strategies for Success all this week. 
 
 ## 27Apr18
 Still sick.
