@@ -2,6 +2,15 @@
 
 This is a journal of my programming journey.
 
+## 4May18
+Did things today to further my programming career, but which does not show up on github.
+
+## 3May18
+Strategies for Success workshop. And not to turn this into a diary, but Mom fell and that took some time as well to deal with.
+
+## 2May18
+Strategies for Success.
+
 ## 1May18
 Continued Strategies for Success and Kids Coding Club.
 
