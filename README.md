@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 7May18
+Networking day with a little learning about dictionaries. Again, doesn't really show up on github, but still a productive day for soft skills.
+
 ## 4May18
 Did things today to further my programming career, but which does not show up on github.
 
