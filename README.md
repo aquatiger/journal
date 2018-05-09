@@ -2,6 +2,12 @@
 
 This is a journal of my programming journey.
 
+## 9May18
+Continued to work on LaunchCode. This is the lesson I got stuck on at coding bootcamp, so it is slow going.
+
+## 8May18
+Worked on LaunchCode, dictionaries, files. Kids Coding Club in the evening.
+
 ## 7May18
 Networking day with a little learning about dictionaries. Again, doesn't really show up on github, but still a productive day for soft skills.
 
