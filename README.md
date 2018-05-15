@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 14May18
+Was a rough weekend beginning on Thursday. This week however, is my final module of the Strategies for Success workshop. I'm continuing to make every effort to code.
+
 ## 9May18
 Continued to work on LaunchCode. This is the lesson I got stuck on at coding bootcamp, so it is slow going.
 
