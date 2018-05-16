@@ -2,6 +2,12 @@
 
 This is a journal of my programming journey.
 
+## 16May18
+Strategies for Success workshop with extra work to do tonight after the workshop.
+
+## 15May18
+Strategies for Success for Success workshop and Kids Coding Club tonight.
+
 ## 14May18
 Was a rough weekend beginning on Thursday. This week however, is my final module of the Strategies for Success workshop. I'm continuing to make every effort to code.
 
