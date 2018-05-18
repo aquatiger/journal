@@ -2,6 +2,12 @@
 
 This is a journal of my programming journey.
 
+## 18May18
+Lots of networking today.
+
+## 17May18
+Strategies for Success. Lots of time taken.
+
 ## 16May18
 Strategies for Success workshop with extra work to do tonight after the workshop.
 
