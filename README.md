@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 29May18
+Wow! Lost a week and a holiday. Picking things back up on Section 12 for Launch Code. Continue to take more time and make connections. Hopefully something will come of it.
+
 ## 18May18
 Lots of networking today.
 
