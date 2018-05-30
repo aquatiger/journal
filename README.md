@@ -3,7 +3,7 @@
 This is a journal of my programming journey.
 
 ## 30May18
-Finally got time to work on LaunchCode. I worked on one problem in Section 11 that I had skipped over and made great progress, although not complete. I requested help from some local coders for the exercise in Section 12 that seems to stump me.
+Finally got time to work on LaunchCode. I worked on one problem in Section 11 that I had skipped over and made great progress, although not complete. I requested help from some local coders for the exercise in Section 12 that seems to stump me. Also worked on networking with some companies.
 
 ## 29May18
 Wow! Lost a week and a holiday. Picking things back up on Section 12 for Launch Code. Continue to take more time and make connections. Hopefully something will come of it.
