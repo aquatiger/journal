@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 4Jun18
+Got a good chunk of time to learn and write code today. Finished one problem, having a turtle draw a line based on input from a text file and plot the input.
+
 ## 1Jun18
 Not to turn this into a diary, but personal life overwhelms again.
 
