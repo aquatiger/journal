@@ -2,6 +2,12 @@
 
 This is a journal of my programming journey.
 
+## 6Jun18
+Finished Section 11 with the help of tutor@python.org. Have tried to get help on Section 12, but nothing I can understand or I can accomplish, so I decided to start fron scratch.
+
+## 5Jun18
+Continued working on Section 11.
+
 ## 4Jun18
 Got a good chunk of time to learn and write code today. Finished one problem, having a turtle draw a line based on input from a text file and plot the input.
 
