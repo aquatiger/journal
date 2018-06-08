@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 7Jun18
+Worked on the problem in Section 12 that has stumped me for almost a year. Not finished yet with it, but I have learned a lot.
+
 ## 6Jun18
 Finished Section 11 with the help of tutor@python.org. Have tried to get help on Section 12, but nothing I can understand or I can accomplish, so I decided to start fron scratch.
 
