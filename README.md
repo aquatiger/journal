@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 11Jun18
+Finally finished the dictionary problem I've had for a year. The problem given in LaunchCode was not the one I've been working on for a year, but I never got a similar problem at coding bootcamp to work. Today I finished the problem, finished section 13, started section 14, prepared for a job interview, started translation program from English to Pirate. I will revisit the dictionary problem so I can learn from what happened.
+
 ## 7Jun18
 Worked on the problem in Section 12 that has stumped me for almost a year. Not finished yet with it, but I have learned a lot.
 
