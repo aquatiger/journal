@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 12Jun18
+Finally completed everything about dictionaries. Feel good about that. Learned a lot. Started the lengthy section 14 on tkinter, got halfway. Feel good about that.
+
 ## 11Jun18
 Finally finished the dictionary problem I've had for a year. The problem given in LaunchCode was not the one I've been working on for a year, but I never got a similar problem at coding bootcamp to work. Today I finished the problem, finished section 13, started section 14, prepared for a job interview, started translation program from English to Pirate. I will revisit the dictionary problem so I can learn from what happened.
 
