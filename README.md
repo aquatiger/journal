@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 15Jun18
+Finished reading Section 15. Recursion is a little hard at the beginning. Expecting it to get easier. Need to finish the exercises.
+
 ## 14Jun18
 Finished Section 14 and started on Section 15. Looking forward to recursion.
 
