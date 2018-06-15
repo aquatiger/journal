@@ -2,6 +2,12 @@
 
 This is a journal of my programming journey.
 
+## 14Jun18
+Finished Section 14 and started on Section 15. Looking forward to recursion.
+
+## 13Jun18
+Job interview, pretty much all day.
+
 ## 12Jun18
 Finally completed everything about dictionaries. Feel good about that. Learned a lot. Started the lengthy section 14 on tkinter, got halfway. Feel good about that.
 
