@@ -2,6 +2,12 @@
 
 This is a journal of my programming journey.
 
+## 19Jun18
+Got a lot of work done today. Looking forward to continuing to work on classes. Finished a few more exercises in Section 15 and all but 3 on Section 16.
+
+## 18Jun18
+Struggled with recursion in Section 15.
+
 ## 15Jun18
 Finished reading Section 15. Recursion is a little hard at the beginning. Expecting it to get easier. Need to finish the exercises.
 
