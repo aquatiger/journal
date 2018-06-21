@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 21Jun18
+Unfortunately, I cannot find the exercises for Section 16, therefore I had to redo them all today. I started on the exercises for Section 17 today also. Frustrating, but probably happens in the real world, too.
+
 ## 20Jun18
 Finished Section 16, except for one exercise, and began Section 17.
 
