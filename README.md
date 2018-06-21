@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 20Jun18
+Finished Section 16, except for one exercise, and began Section 17.
+
 ## 19Jun18
 Got a lot of work done today. Looking forward to continuing to work on classes. Finished a few more exercises in Section 15 and all but 3 on Section 16.
 
