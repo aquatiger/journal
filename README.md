@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 22Jun18
+Today I finished the final exercise in the final chapter for LaunchCode. I will continue on this path, but what a hard earned success.
+
 ## 21Jun18
 Unfortunately, I cannot find the exercises for Section 16, therefore I had to redo them all today. I started on the exercises for Section 17 today also. Frustrating, but probably happens in the real world, too.
 
