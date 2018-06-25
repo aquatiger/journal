@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 25Jun18
+Focusing on soft skills today and tomorrow to plan ahead and further my career. Many good things are happening, but not really involving coding directly.
+
 ## 22Jun18
 Today I finished the final exercise in the final chapter for LaunchCode. I will continue on this path, but what a hard earned success.
 
