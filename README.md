@@ -2,6 +2,12 @@
 
 This is a journal of my programming journey.
 
+## 27Jun18
+Soft skills were king again today.
+
+## 26Jun18
+Continued focusing on soft skills and companies.
+
 ## 25Jun18
 Focusing on soft skills today and tomorrow to plan ahead and further my career. Many good things are happening, but not really involving coding directly.
 
