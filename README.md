@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 28Jun18
+Did many things today. Researched blockchain and started hyperledger course on edX. Worked on my short fraction program.
+
 ## 27Jun18
 Soft skills were king again today.
 
