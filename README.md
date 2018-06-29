@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 29Jun18
+Studied Hyperledger and Ethereum. Decided on a plan for the second step of LaunchCode.
+
 ## 28Jun18
 Did many things today. Researched blockchain and started hyperledger course on edX. Worked on my short fraction program.
 
