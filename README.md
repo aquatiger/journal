@@ -12,7 +12,7 @@ Worked on Hyperledger and unsuccessfully tried to get a Virtual Machine on my PC
 Finished HTML part of the second part of LaunchCode, and worked on Hyperledger at edX.
 
 ## 2Jul18
-Continued to study Hyperledger at edX. Studied the intro and beyond for the second step of LaunchCode.
+Continued to study Hyperledger at edX. Studied the intro and beyond for the second step of LaunchCode. Met with fellow presenter for Friday's blockchain presentation.
 
 ## 29Jun18
 Studied Hyperledger and Ethereum. Decided on a plan for the second step of LaunchCode.
