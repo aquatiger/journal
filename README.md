@@ -2,6 +2,15 @@
 
 This is a journal of my programming journey.
 
+## 5Jul18
+Continued working on Hyperledger and CSS for LaunchCode. Prepared for tomorrow's presentation on blockchain.
+
+## 4Jul18
+Worked on Hyperledger and unsuccessfully tried to get a Virtual Machine on my PC. Also could not get docker to work on my Linux laptop.
+
+## 3Jul18
+Finished HTML part of the second part of LaunchCode, and worked on Hyperledger at edX.
+
 ## 2Jul18
 Continued to study Hyperledger at edX. Studied the intro and beyond for the second step of LaunchCode.
 
