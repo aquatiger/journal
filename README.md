@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 6Jul18
+Gave a presentation on blockchain. Continued to work on exercises for LaunchCode. Still stuck on Hyperledger and Virtual Machines on my PC and docker on my linux laptop.
+
 ## 5Jul18
 Continued working on Hyperledger and CSS for LaunchCode. Prepared for tomorrow's presentation on blockchain.
 
