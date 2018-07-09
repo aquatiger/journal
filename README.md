@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 9Jul18
+Got Virtual Box running on my PC which will eventully lead to finishing Hyperledger's course. Reviewed recursion, still not quite getting it.
+
 ## 6Jul18
 Gave a presentation on blockchain. Continued to work on exercises for LaunchCode. Still stuck on Hyperledger and Virtual Machines on my PC and docker on my linux laptop.
 
