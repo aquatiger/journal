@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 10Jul18
+Strategized about blockchain today. Continued to work on coding issues.
+
 ## 9Jul18
 Got Virtual Box running on my PC which will eventully lead to finishing Hyperledger's course. Reviewed recursion, still not quite getting it.
 
