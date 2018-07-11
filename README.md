@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 11Jul18
+Continued on CSS for LaunchCode and related exercises
+
 ## 10Jul18
 Strategized about blockchain today. Continued to work on coding issues.
 
