@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 13Jul18
+Continued on CSS exercises for LaunchCode
+
 ## 11Jul18
 Continued on CSS for LaunchCode and related exercises
 
