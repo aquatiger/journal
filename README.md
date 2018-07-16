@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 16Jul18
+Worked on CSS and JavaScript. Unsuccessfully worked on getting VirtualBox working. Unsuccessfully worked on webpage.
+
 ## 13Jul18
 Continued on CSS exercises for LaunchCode
 
