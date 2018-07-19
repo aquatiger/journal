@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 19Jul18
+Worked on JavaScript for LaunchCode today. Definitely productive.
+
 ## 17Jul18
 Worked a lot on JavaScript today. Seemed to get VirtualBox working, still more to do.
 
