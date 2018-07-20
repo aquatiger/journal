@@ -1,6 +1,8 @@
 # journal
 
 This is a journal of my programming journey.
+## 20Jul18
+Worked on JS, CSS HTML on various exercises. Fairly productive but the one took me "all" day. Asked another question via StackOverflow. Did not make my goal this week because I have 3 more exercises to finish, but still great progress.
 
 ## 19Jul18
 Worked on JavaScript for LaunchCode today. Definitely productive. Signed up for StackOverflow today. That was definitely an experience.
