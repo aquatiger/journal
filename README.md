@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 23Jul18
+Worked on JS, CSS HTML on various exercises. Finished a simple calculator. Today was productive.
+
 ## 20Jul18
 Worked on JS, CSS HTML on various exercises. Fairly productive but the one took me "all" day. Asked another question via StackOverflow. Did not make my goal this week because I have 3 more exercises to finish, but still great progress.
 
