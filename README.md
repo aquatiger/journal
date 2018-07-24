@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 24Jul18
+Continued to work on more complex programming that often does not show up on github. Started local host 8000. Questioned StackOverflow. All in all a productive day.
+
 ## 23Jul18
 Worked on JS, CSS HTML on various exercises. Finished a simple calculator. Today was productive.
 
