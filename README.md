@@ -1,6 +1,12 @@
 # journal
 
 This is a journal of my programming journey.
+## 26Jul18
+Finished Part 2 for LaunchCode. Questioned StackOverflow. Finished a problem that was bothering me for awhile. Looking forward to Part 3 which is my project for LaunchCode.
+
+## 25Jul18
+Contued to work on LaunchCode part 2. Tried multiple things on some programs I already wrote. Another productive day.
+
 ## 24Jul18
 Continued to work on more complex programming that often does not show up on github. Started local host 8000. Questioned StackOverflow. All in all a productive day.
 
