@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 29Jul18
+Worked on more soft skills today rather than hard skills, but still being productive.
+
 ## 26Jul18
 Finished Part 2 for LaunchCode. Questioned StackOverflow. Finished a problem that was bothering me for awhile. Looking forward to Part 3 which is my project for LaunchCode.
 
