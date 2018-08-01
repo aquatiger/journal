@@ -1,7 +1,11 @@
 # journal
 
 This is a journal of my programming journey.
-## 29Jul18
+
+## 31Jul18
+Again worked more on soft skills, but was still productive today as well as the rest of the week, as of now, is devoted to coding and my  hard skillset.
+
+## 30Jul18
 Worked on more soft skills today rather than hard skills, but still being productive.
 
 ## 26Jul18
