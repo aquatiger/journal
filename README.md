@@ -2,6 +2,12 @@
 
 This is a journal of my programming journey.
 
+## 7Aug18
+Today I worked on LaunchCode and better understanding Git, actually. Worked on image in LinkedIn and continued coding even though again, it doesn't reflect well on GitHub.
+
+## 6Aug18
+A busy hiatus. Worked on LaunchCode material and a greater command line proficiency.
+
 ## 31Jul18
 Again worked more on soft skills, but was still productive today as well as the rest of the week, as of now, is devoted to coding and my  hard skillset.
 
