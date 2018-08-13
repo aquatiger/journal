@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 13Aug18
+Rough last week. Today I fixed a problem with Community PyCharm that I had. I started planning my project. Researched blockchain companies and other related queries. Tried to get further on my fractions program.
+
 ## 7Aug18
 Today I worked on LaunchCode and better understanding Git, actually. Worked on image in LinkedIn and continued coding even though again, it doesn't reflect well on GitHub.
 
