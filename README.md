@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 14Aug18
+Continued to work on my project and a smaller program of fractions. 
+
 ## 13Aug18
 Rough last week. Today I fixed a problem with Community PyCharm that I had. I started planning my project. Researched blockchain companies and other related queries. Tried to get further on my fractions program.
 
