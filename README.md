@@ -1,6 +1,8 @@
 # journal
 
 This is a journal of my programming journey.
+## 20Aug18
+Slow but steady progress on project and related issues as well as spending more time applying for jobs.
 
 ## 14Aug18
 Continued to work on my project and a smaller program of fractions. 
