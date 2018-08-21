@@ -1,6 +1,10 @@
 # journal
 
 This is a journal of my programming journey.
+
+## 21Aug18
+Worked on fractions program. Job hunted. 
+
 ## 20Aug18
 Slow but steady progress on project and related issues as well as spending more time applying for jobs.
 
