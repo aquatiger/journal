@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 22Aug18
+Continued working on fractions program. Job hunted and various computer related, non-github things.
+
 ## 21Aug18
 Worked on fractions program. Job hunted. 
 
