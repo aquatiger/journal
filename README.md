@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 29Aug18
+A week of learning, youtubing, eye appointments, job hunting, and sickness. Getting back on track with my project.
+
 ## 22Aug18
 Continued working on fractions program. Job hunted and various computer related, non-github things.
 
