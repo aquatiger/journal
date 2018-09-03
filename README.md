@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 3Sep18
+Two small baby steps to getting closer to start my project for LaunchCode.
+
 ## 29Aug18
 A week of learning, youtubing, eye appointments, job hunting, and sickness. Getting back on track with my project.
 
