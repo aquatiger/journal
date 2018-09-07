@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 7Sep18
+Continued to work on API and local hosting issues and plan my project.
+
 ## 3Sep18
 Two small baby steps to getting closer to start my project for LaunchCode.
 
