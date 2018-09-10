@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 10Sep18
+Continued working on project including but not limited to API, database and planning the code.
+
 ## 7Sep18
 Continued to work on API and local hosting issues and plan my project.
 
