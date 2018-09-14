@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 14Sep18
+Worked on getting the repo sorted out through GitHub support. Read more from http://www.alan-g.me.uk/l2p2/index.htm.
+
 ## 10Sep18
 Continued working on project including but not limited to API, database and planning the code.
 
