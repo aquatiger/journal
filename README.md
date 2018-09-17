@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 17Sep18
+Continued getting the project ready and planning on what to do. Combed the web for answers that seem simple enough, but unsuccessfully answered. 
+
 ## 14Sep18
 Worked on getting the repo sorted out through GitHub support. Read more from http://www.alan-g.me.uk/l2p2/index.htm.
 
