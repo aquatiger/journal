@@ -2,6 +2,9 @@
 
 This is a journal of my programming journey.
 
+## 18Sep18
+Mostly set up git and github stuff today. Continued planning the project.
+
 ## 17Sep18
 Continued getting the project ready and planning on what to do. Combed the web for answers that seem simple enough, but unsuccessfully answered. 
 
