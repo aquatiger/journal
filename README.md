@@ -1,6 +1,8 @@
 # journal
 
 This is a journal of my programming journey.
+## 19Sep18
+Worked backend on the pdxCrime project. And applied for jobs.
 
 ## 18Sep18
 Mostly set up git and github stuff today. Continued planning the project.
