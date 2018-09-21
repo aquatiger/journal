@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 21Sep18
+Applied for jobs. Successfully accessed the data of the project and began the next step of counting contents of each column.
+
 ## 19Sep18
 Worked backend on the pdxCrime project. And applied for jobs.
 
