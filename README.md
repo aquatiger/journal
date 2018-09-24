@@ -1,6 +1,10 @@
 # journal
 
 This is a journal of my programming journey.
+
+## 24Sep18
+Applied for jobs. Worked on project and web framework.
+
 ## 21Sep18
 Applied for jobs. Successfully accessed the data of the project and began the next step of counting contents of each column.
 
