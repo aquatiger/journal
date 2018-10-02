@@ -1,6 +1,8 @@
 # journal
 
 This is a journal of my programming journey.
+## 2OCT18
+Was sick for awhile. Worked on git-it (frustrating), and Flask.
 
 ## 24Sep18
 Applied for jobs. Worked on project and web framework.
