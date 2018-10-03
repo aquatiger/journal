@@ -1,7 +1,10 @@
 # journal
 
 This is a journal of my programming journey.
-## 2OCT18
+## 3Oct18
+Worked on Flask, job applications, worked on opening files for the project, researched pandas a little bit, continued git-it.
+
+## 2Oct18
 Was sick for awhile. Worked on git-it (frustrating), and Flask.
 
 ## 24Sep18
