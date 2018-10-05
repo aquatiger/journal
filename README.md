@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 5Oct18
+Attempted setting up my virtual env for my project. Went fairly unsuccessfully. Applied for some jobs. Experimented with how to parse the data. Still need the Flask tutorial for me and the meetup coming up on Wednesday
+
 ## 3Oct18
 Worked on Flask, job applications, worked on opening files for the project, researched pandas a little bit, continued git-it.
 
