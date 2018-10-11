@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 11Oct18
+Longer hiatus than expected. Way too busy with formidable problems that certainly don't show up on github. Problems with github and other things that are supposed to help. Git-it, Git Bash, a usually helpful teacher whose video I just couldn't figure out.
+
 ## 5Oct18
 Attempted setting up my virtual env for my project. Went fairly unsuccessfully. Applied for some jobs. Experimented with how to parse the data. Still need the Flask tutorial for me and the meetup coming up on Wednesday
 
