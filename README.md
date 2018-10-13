@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 12Oct18
+Still did not get virtualenv working. This is holding up the whole project and nowI have the meetup project to get involved with also. Planning on next week going better than this.
+
 ## 11Oct18
 Longer hiatus than expected. Way too busy with formidable problems that certainly don't show up on github. Problems with github and other things that are supposed to help. Git-it, Git Bash, a usually helpful teacher whose video I just couldn't figure out.
 
