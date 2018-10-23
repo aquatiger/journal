@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 23Oct18
+Way longer hiatus than desired. For the past two days I worked on the database structure for the database project for the meetup. A real live project I'm excited about. As it will eventually be an open source application, more green squares to come!
+
 ## 12Oct18
 Still did not get virtualenv working. This is holding up the whole project and nowI have the meetup project to get involved with also. Planning on next week going better than this.
 
