@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 25Oct18
+Yesterday being filled, including project for PDX Wildlife, initiated from a meetup. Planning on working on the database aspect of the project in Python and SQL.
+
 ## 23Oct18
 Way longer hiatus than desired. For the past two days I worked on the database structure for the database project for the meetup. A real live project I'm excited about. As it will eventually be an open source application, more green squares to come!
 
