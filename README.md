@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 30Oct18
+Worked on ERDs for PDX Wildlife. Did a few tutorials on sqlite and python. Worked on github issues that seemed to miraculously solve themselves today.
+
 ## 29Oct18
 Worked on preparing for the database for PDX Wildlife. Continued learning. 
 
