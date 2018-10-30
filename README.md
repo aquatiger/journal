@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 29Oct18
+Worked on preparing for the database for PDX Wildlife. Continued learning. 
+
 ## 25Oct18
 Yesterday being filled, including project for PDX Wildlife, initiated from a meetup. Planning on working on the database aspect of the project in Python and SQL.
 
