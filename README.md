@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 13Nov18
+Worked on, as I have for the past few day on PDX Wildlife.
+
 ## 5Nov18
 Worked on PDX Wildlife a little. Start a new job (hopefully) tomorrow.
 
