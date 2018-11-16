@@ -1,8 +1,11 @@
 # journal
 
 This is a journal of my programming journey.
+## 15Nov18
+Continued working on flask and SQL for the project.
+
 ## 13Nov18
-Worked on, as I have for the past few day on PDX Wildlife.
+Worked on, as I have for the past few days on PDX Wildlife.
 
 ## 5Nov18
 Worked on PDX Wildlife a little. Start a new job (hopefully) tomorrow.
