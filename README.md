@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 16Nov18
+Loaded postgresql on my desktop. Attempted, ultimately unsuccessfully, to load postgresql on my laptop. Job hunted.
+
 ## 15Nov18
 Continued working on flask and SQL for the project.
 
