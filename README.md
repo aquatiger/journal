@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 20Nov18
+Contiued working on project with a meetup scheduled for tonight. Successfully loaded postgresql on my Linux laptop. Job hunted.
+
 ## 16Nov18
 Loaded postgresql on my desktop. Attempted, ultimately unsuccessfully, to load postgresql on my laptop. Job hunted.
 
