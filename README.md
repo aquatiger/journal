@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 26Nov18
+Well, another week has gone by despite my best efforts to journal. I have sporadically worked on PDX Wildlife project. Difficult going, but continuing.
+
 ## 20Nov18
 Contiued working on project with a meetup scheduled for tonight. Successfully loaded postgresql on my Linux laptop. Job hunted.
 
