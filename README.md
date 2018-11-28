@@ -1,6 +1,9 @@
 # journal
 
 This is a journal of my programming journey.
+## 28Nov18
+Worked on general programming today, including the blog I follow about python and a few packages offered by or can work with python. Refreshed my memory on the PDX project. Trying to get back into the groove with that.
+
 ## 26Nov18
 Well, another week has gone by despite my best efforts to journal. I have sporadically worked on PDX Wildlife project. Difficult going, but continuing.
 
